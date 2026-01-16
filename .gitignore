@@ -1,0 +1,19 @@
+# 忽略虛擬環境
+.venv/
+
+# 忽略編譯產生的暫存檔
+__pycache__/
+*.pyc
+
+# 忽略資料集與影片
+*.mp4
+*.avi
+C_HR/
+datasets/
+runs/
+
+# 忽略 VS Code 設定檔
+.vscode/
+
+# 忽略 Jupyter Checkpoints
+.ipynb_checkpoints/
