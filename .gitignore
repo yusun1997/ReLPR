@@ -10,6 +10,7 @@ __pycache__/
 *.avi
 C_HR/
 datasets/
+dataset/
 runs/
 
 # 忽略 VS Code 設定檔
